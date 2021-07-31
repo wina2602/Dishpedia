@@ -1,0 +1,11 @@
+.btnsub
+{background: rgb(51, 50, 50);
+    transition: all .5s;
+    border: none;
+    color:#BBDEFB ;
+    padding: 10px 20px;
+    margin-top: 10px;}
+.btnsub:hover{
+        background-color: rgb(241, 241, 220);
+        color: black;
+    }
